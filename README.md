@@ -2,7 +2,7 @@
 
 Change badge links below to reflect you own fork and then delete this line!
 
-[![MAT-MEK4270 mandatory 2](https://github.com/MATMEK-4270/matmek4270-mandatory2/actions/workflows/main.yml/badge.svg)](https://github.com/MATMEK-4270/matmek4270-mandatory2/actions/workflows/main.yml)
+[![MAT-MEK4270 mandatory 2](https://github.com/sand0p/mandatory2/actions/workflows/main.yml/badge.svg)](https://github.com/sand0p/mandatory2/actions/workflows/main.yml)
 
 Please see instructions in [the book](https://matmek-4270.github.io/matmek4270-book/mandatory2.html).
 
